@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Database Server</string>
+    <string name="action_settings">Settings</string>
+    <string name="view_record">ดูรายการบันทึก</string>
+    <string name="header_str">ตัวอย่างการติดต่อ DB Server</string>
+    <string name="name_str">รายชื่อ : </string>
+    <string name="msg_str">ข้อความ : </string>
+    <string name="note_str">หมายเหตุ : </string>
+    <string name="paid_amt">จำนวน : </string>
+    <string name="button_str">บันทึก</string>
+    <string name="err_title">มีข้อผิดพลาด</string>
+    <string name="input_name">กรอกชื่อด้วย</string>
+    <string name="input_msg">กรอกรายการด้วย</string>
+    <string name="input_amt">กรอกจำนวนเงินด้วย</string>
+    <string name="submit_title">ผลการบันทึก</string>
+    <string name="submit_result">บันทึกสำเร็จ</string>
+    <string name="amt_hint">เช่น 1000</string>
+    <string name="col_trans_id_str">เลขที่รายการ</string>
+    <string name="col_name_str">รายชื่อ</string>
+    <string name="col_msg_str">รายการ</string>
+    <string name="col_amt_str">จำนวน</string>
+    <string name="col_note_str">หมายเหตุ</string>
+    <string name="hdtxt">รายการบันทึก</string>
+    <string name="title_activity_list">รายการบันทึก</string>
+</resources>
